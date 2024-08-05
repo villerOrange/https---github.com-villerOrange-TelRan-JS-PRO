@@ -1,0 +1,24 @@
+.theme_area{
+    padding: 25px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    height: 100px;
+}
+.light {
+    background-color: rgb(166, 198, 166);
+    color: black;
+}
+.dark {
+    background-color: rgb(54, 77, 54);
+    color: white;
+}
+.btn_theme{
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: rgb(44, 107, 28);
+}
